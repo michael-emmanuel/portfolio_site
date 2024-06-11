@@ -30,7 +30,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{' '}
         <span className='font-medium'>
-          TypeScript, React, Next.js, Node.js, MySQL
+          TypeScript, React, Next.js, Node.js, Nest.js, MySQL
         </span>{' '}
         and <span className='font-medium'>MongoDB</span>. I am also familiar
         with AWS and Prisma. I am always looking to learn new technologies. I am
